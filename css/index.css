@@ -99,7 +99,7 @@ footer img {
   .nav__cb:checked ~ .nav__content {
     -webkit-transition: width 1s cubic-bezier(0.48, 0.43, 0.29, 1.3);
     transition: width 1s cubic-bezier(0.48, 0.43, 0.29, 1.3);
-    width: 410px;
+    width: 260px;
   }
   .nav__items {
     position: relative;
@@ -117,7 +117,7 @@ footer img {
     text-align: center;
     color: #6C7784;
     font-size: 14px;
-    line-height: 90px;
+    line-height: 75px;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: bold;
     -webkit-perspective: 1000px;
